@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "id": "fd10",
+      "username": "Dimas",
+      "fullname": "Dimas Arvianto",
+      "email": "dimas@gmail.com",
+      "password": "12345",
+      "balance": 0
+    },
+    {
+      "id": "406e",
+      "username": "Iki",
+      "fullname": "Rizki Maulana",
+      "email": "iki@gmail.com",
+      "password": "12345",
+      "balance": 3500000
+    },
+    {
+      "id": "3526",
+      "username": "Arvianto",
+      "fullname": "Prasetya Dimas Arvianto",
+      "email": "dimasarvianto23@gmail.com",
+      "password": "dimas123",
+      "balance": 1300000
+    },
+    {
+      "id": "8322",
+      "username": "Iki",
+      "fullname": "Rizki",
+      "email": "iki@gmail.com",
+      "password": "123",
+      "jangka": [
+        {
+          "name": "3 Tahun"
+        }
+      ],
+      "balance": 0
+    },
+    {
+      "id": "a694",
+      "username": "KIKI",
+      "fullname": "KIKI",
+      "email": "KIKI@gmail.com",
+      "password": "123",
+      "jangka": "2 Tahun",
+      "balance": 0
+    },
+    {
+      "id": "4f26",
+      "username": "arviarvi1",
+      "fullname": "Tio Tio",
+      "email": "tiotio2@gmail.com",
+      "password": "tio123",
+      "jangka": "6 Bulan",
+      "balance": 0
+    },
+    {
+      "id": "8b23",
+      "username": "upilkuupilmu",
+      "fullname": "Cinta Laura",
+      "email": "upilupil@gmail.com",
+      "password": "laura123",
+      "jangka": "5 Tahun",
+      "bank": "CIMB NIAGA",
+      "noRek": "988211445223",
+      "nameRek": "Cinta Laura",
+      "balance": 0
+    },
+    {
+      "id": "fa4d",
+      "username": "Farel",
+      "fullname": "FarelYU",
+      "email": "farel@gmail.com",
+      "password": "12345",
+      "jangka": "5 Tahun",
+      "bank": "BCA",
+      "noRek": "7769876708707",
+      "nameRek": "farel",
+      "balance": 0
+    },
+    {
+      "id": "92da",
+      "username": "ucup123",
+      "fullname": "Ucup Nirin",
+      "email": "ucup@gmail.com",
+      "password": "ucup123",
+      "jangka": "5 Tahun",
+      "bank": "BCA",
+      "noRek": "572234425",
+      "nameRek": "Ucup Nirin",
+      "balance": 1500000
+    },
+    {
+      "id": "a589",
+      "username": "Nixon",
+      "fullname": "Nixon",
+      "email": "nixon@gmail.com",
+      "password": "nixon123456",
+      "jangka": "5 Tahun",
+      "bank": "BCA",
+      "noRek": "758647534625",
+      "nameRek": "nixon",
+      "balance": 1000000
+    },
+    {
+      "id": "5b6f",
+      "username": "Ardi",
+      "fullname": "Ardi",
+      "email": "Ardi@gmail.com",
+      "password": "Ardi123456",
+      "jangka": "5 Tahun",
+      "bank": "BCA",
+      "noRek": "7965342523",
+      "nameRek": "Ardi",
+      "balance": 500000
+    },
+    {
+      "id": "918f",
+      "username": "Samuel",
+      "fullname": "Samuel",
+      "email": "samuel@gmail.com",
+      "password": "samuel123456",
+      "jangka": "5 Tahun",
+      "bank": "BCA",
+      "noRek": "7686853534",
+      "nameRek": "samuel",
+      "balance": 500000
+    },
+    {
+      "id": "607b",
+      "username": "Rubi",
+      "fullname": "Rubi",
+      "email": "rubi@gmail.com",
+      "password": "rubi123456",
+      "jangka": "5 Tahun",
+      "bank": "BCA",
+      "noRek": "78654652325",
+      "nameRek": "rubi",
+      "balance": 1000000
+    },
+    {
+      "id": "68f2",
+      "username": "ucupucup",
+      "fullname": "ucup ucup",
+      "email": "ucupucup@gmail.com",
+      "password": "ucupucup",
+      "jangka": "2 Tahun",
+      "bank": "BNI",
+      "noRek": "355325324",
+      "nameRek": "ucup ucup",
+      "balance": 1000000
+    },
+    {
+      "id": "daf1",
+      "username": "tutituti",
+      "fullname": "tutituti",
+      "email": "tuti@gmail.com",
+      "password": "tutituti",
+      "jangka": "1 Tahun",
+      "bank": "BCA",
+      "noRek": "21421452",
+      "nameRek": "tutituti",
+      "balance": 2500000
+    }
+  ]
+}
